@@ -1,4 +1,5 @@
-Automation of GreenKart
+
+Automation of GreenKart Application
 
 Introduction: GreenKart is a demonstration website commonly used for automation testing purposes. It features a dashboard, top deals section, flight booking functionality, and allows users to browse items. Users can add items to their cart and adjust quantities accordingly. (https://rahulshettyacademy.com/seleniumPractise/#/)
 
@@ -13,9 +14,13 @@ Execute the automation script using the provided feature files.
 Project Structure: The project structure consists of the following components:
 
 Feature Files: Each scenario is defined in a separate feature file, outlining the steps to be executed.
+
 Step Definition: Step definitions correspond to the steps outlined in the feature files. They contain the actual automation logic.
+
 Page Factory: Page factory classes are used to initialize web elements and define methods to interact with them.
+
 Generic Methods: Generic methods provide reusable functionality across different scenarios, promoting code efficiency and maintainability.
+
 How to Use:
 
 Identify the scenario you want to execute from the feature files.
